@@ -1,0 +1,7 @@
+C:\Users\sheri\OneDrive\Desktop\C. College\year 2 semester 2\Software quailty A\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\sheri\OneDrive\Desktop\C. College\year 2 semester 2\Software quailty A\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\sheri\OneDrive\Desktop\C. College\year 2 semester 2\Software quailty A\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\sheri\OneDrive\Desktop\C. College\year 2 semester 2\Software quailty A\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\sheri\OneDrive\Desktop\C. College\year 2 semester 2\Software quailty A\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\sheri\OneDrive\Desktop\C. College\year 2 semester 2\Software quailty A\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\sheri\OneDrive\Desktop\C. College\year 2 semester 2\Software quailty A\Assignment2\obj\Debug\Assignment2.pdb
