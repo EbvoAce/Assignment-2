@@ -8,8 +8,8 @@ namespace Assignment2
 {
     public class Rectangle
     {
-        private static int length;
-        private static int width;
+        private  int length;
+        private  int width;
 
         public Rectangle()
         {
